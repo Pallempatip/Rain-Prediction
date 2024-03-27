@@ -7,4 +7,8 @@
 
 **Impact:** The project not only showcased the potential of data science in enhancing meteorological predictions but also provided valuable insights for environmental policy-making, urban planning, and agricultural practices. By predicting rainfall with greater accuracy, stakeholders can make informed decisions to mitigate adverse impacts on infrastructure, agriculture, and communities.
 
-**Professional Skills Highlight:** Expertise in Predictive Modeling: Demonstrated ability to apply advanced machine learning algorithms to forecast environmental phenomena. Data Analysis and Visualization: Proficient in extracting actionable insights from complex datasets and visualizing data for clear, impactful communication. Collaborative Problem-Solving: Experience in working within multidisciplinary teams to address challenging problems with innovative data-driven solutions. Commitment to Sustainability: Dedicated to applying data science for environmental conservation and sustainable development goals.
+**Professional Skills :** Expertise in Predictive Modeling: Demonstrated ability to apply advanced machine learning algorithms to forecast environmental phenomena.
+
+**Data Analysis and Visualization:** Proficient in extracting actionable insights from complex datasets and visualizing data for clear, impactful communication. Collaborative Problem-Solving: Experience in working within multidisciplinary teams to address challenging problems with innovative data-driven solutions.
+
+**Commitment to Sustainability:** Dedicated to applying data science for environmental conservation and sustainable development goals.
